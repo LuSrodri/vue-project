@@ -1,4 +1,4 @@
-# world
+# my-app
 
 ## Project setup
 ```
