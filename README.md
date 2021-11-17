@@ -1,5 +1,11 @@
 # my-app
 
+<h2>Resultado Final</h2>
+
+<img src="resultado_final.png">
+
+
+
 ## Project setup
 ```
 npm install
